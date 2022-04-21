@@ -3,7 +3,7 @@
 
 - 🪛 Kotlin **(coroutines,flows)**
 
-- 📥 Room**(database)**
+- 📥 Room **(database)**
 
 - 🗡️ Dagger Hilt **(dependency injection)**
 
